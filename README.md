@@ -15,5 +15,7 @@ estudiantes y equipos académicos
 
 # Encargados
 Francisca Vidal
+
 Iñaki Zárate
+
 Nelson Ríos
