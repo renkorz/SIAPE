@@ -6,6 +6,6 @@ GitHub estudiantil dirigido al desarrollo a la clase de Proyecto Integrado, con 
 de integrar un sistema especial para estudiantes con necesidades dentro de las clases.
 
 Estudiantes de segundo año, Ingeniería en Informática.
-Iñaki Zárate
+# Iñaki Zárate
 Francisca Vidal
 Nelson Ríos
