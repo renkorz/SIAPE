@@ -11,7 +11,7 @@ administrativa para estudiantes, docentes y áreas de apoyo.
 La solución planteada consiste en una plataforma digital que permita registrar y gestionar
 solicitudes, entrevistas y evidencias; notificar automáticamente a docentes y directores de carrera;
 y garantizar trazabilidad, seguridad y cumplimiento normativo, mejorando así la experiencia de
-estudiantes y equipos académicos
+estudiantes y equipos académicos.
 
 # Encargados
 Francisca Vidal
